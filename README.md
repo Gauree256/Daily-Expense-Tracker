@@ -4,19 +4,30 @@ A simple Java program that allows the user to enter their daily expenses for 7 d
 The program stores the values in an array, calculates the total weekly expense, and sorts the expenses using the built-in Arrays.sort() method.
 
 🚀 Features
+
 Input expenses for 7 days
+
 Store data in a double array
+
 Display all entered expenses
+
 Calculate total weekly expense
+
 Sort expenses using Arrays.sort()
+
 Find the lowest and highest expense
+
 Print sorted expenses (ascending order)
 
 
 🛠 Technologies Used
+
 Java
+
 Arrays
+
 Scanner class
+
 Arrays.sort()
 
 📌 Sample Output
@@ -49,4 +60,5 @@ Expenses in sorted order (low to high):
 50.0  60.0  80.0  90.0  120.0  150.0  200.0
 
 👤 Author
+
 Gauree Manoj Dikkatwar
