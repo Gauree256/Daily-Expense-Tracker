@@ -1,36 +1,30 @@
-📘 Expense Tracker – Java Project
-
+# 📘 Expense Tracker – Java Project
 A simple Java program that allows the user to enter their daily expenses for 7 days.
 The program stores the values in an array, calculates the total weekly expense, and sorts the expenses using the built-in Arrays.sort() method.
+---
 
-🚀 Features
+## 🚀 Features
 
-Input expenses for 7 days
+- ✔ Input expenses for 7 days
+- ✔ Store data in a double array
+- ✔ Display all entered expenses
+- ✔ Calculate total weekly expense
+- ✔ Sort expenses using Arrays.sort()
+- ✔ Find the lowest and highest expense
+- ✔ Print sorted expenses (ascending order)
 
-Store data in a double array
+---
 
-Display all entered expenses
+## 🛠️ Technologies Used
 
-Calculate total weekly expense
+- **Java**  
+- **Arrays**  
+- **Scanner class**
+- **Arrays.sort()**
 
-Sort expenses using Arrays.sort()
+---
 
-Find the lowest and highest expense
-
-Print sorted expenses (ascending order)
-
-
-🛠 Technologies Used
-
-Java
-
-Arrays
-
-Scanner class
-
-Arrays.sort()
-
-📌 Sample Output
+## 📌 Sample Output
 
 ====== Expense Tracker ======
 
@@ -59,6 +53,28 @@ Highest Expense: 200.0
 Expenses in sorted order (low to high):
 50.0  60.0  80.0  90.0  120.0  150.0  200.0
 
-👤 Author
+
+---
+
+## 👤 Author
 
 Gauree Manoj Dikkatwar
+
+---
+
+### 😊 Feedback is Welcome!
+
+If you have any suggestions or ideas for improvements, feel free to share them!
+
+
+
+
+
+
+
+
+
+
+
+
+
